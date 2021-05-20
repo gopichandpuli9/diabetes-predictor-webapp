@@ -6,5 +6,7 @@ This model was trained using random forest classifier for better accuracy
 ### Libraries used: 
 pandas, Scikit-learn, Pillow, streamlit
 
+
+
 ![](webapp-image.png)
 
