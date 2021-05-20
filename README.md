@@ -3,6 +3,7 @@ This web application takes the values of pregnancies, glucose, blood pressure, s
 
 This model was trained using random forest classifier for better accuracy
 
-## Libraries used: pandas, Scikit-learn, Pillow, streamlit
+## Libraries used: 
+pandas, Scikit-learn, Pillow, streamlit
 
 
