@@ -10,7 +10,7 @@ st.header('Diabetes Detection')
 #image = Image.open('/Users/gopichandpuli/PycharmProjects/Diabetes/sign.jpg')
 #st.image(image, caption='ML', use_column_width=True)
 
-df = pd.read_csv('/Users/gopichandpuli/PycharmProjects/Diabetes/diabetes.csv')
+df = pd.read_csv('diabetes.csv')
 
 #st.subheader('Data Information:')
 
